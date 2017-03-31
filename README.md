@@ -7,4 +7,5 @@
 <p>Rebel soldiers have taken over a village in the desert and captured all the villagers. The objective of this game is to eliminate all the rebel soldiers in the village although saving the villagers is optional.</p>
 
 <a href= "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" >Pygame Wheel File</a>
+
 <a href= "https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and PyGame</a>
