@@ -1539,4 +1539,4 @@ game.quit()
 
 
 
-###CREDITS: LINDA ZHENG - GRAPHIC ARTIST EDITOR
+###CREDITS: LZ (For Helping With Graphics)
